@@ -1,0 +1,81 @@
+#ret1 {
+    width: 1238px;
+height: 75px;
+border-radius: 7px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+
+}
+#ret2{
+    margin-top: 10px;
+    width: 1238px;
+height: 34px;
+border-radius: 7px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+}
+#retzao{
+    margin-top: 10px;
+    width: 1238px;
+height: 325px;
+border-radius: 7px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+display:flex;
+
+
+}
+.quad1{
+    width: 347px;
+height: 274px;
+background: #8B8989;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+margin: 15px;
+padding: 3px;
+
+
+}
+.quad2{
+    width: 474px;
+height: 274px;
+background: #8D8D8D;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+margin: 15px;
+padding: 3px;
+
+
+
+}
+
+.quad3{
+    width: 347px;
+height: 274px;
+background: #8B8989;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+margin: 15px;
+padding: 3px;
+}
+#ret3{
+    margin-top: 10px;
+    width: 1238px;
+height: 324px;
+transform: rotate(0.179deg);
+border-radius: 7px;
+opacity: 0.7;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+
+}
+#ret4{
+    margin-top: 10px;
+    width: 1239px;
+height: 46px;
+border-radius: 7px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+
+
+}
